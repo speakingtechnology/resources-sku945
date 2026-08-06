@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://speakingtechnology.github.io/resources-sku945/sitemap.xml
